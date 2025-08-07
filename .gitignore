@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Логи
+*.log
+
+# Файл экспорта
+vk-playlist.txt
